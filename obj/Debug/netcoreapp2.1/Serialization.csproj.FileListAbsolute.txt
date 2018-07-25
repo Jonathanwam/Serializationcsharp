@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Revature\Serialization\bin\Debug\netcoreapp2.1\Serialization.deps.json
+C:\Users\Jonathan\Documents\Revature\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.json
+C:\Users\Jonathan\Documents\Revature\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Revature\Serialization\bin\Debug\netcoreapp2.1\Serialization.dll
+C:\Users\Jonathan\Documents\Revature\Serialization\bin\Debug\netcoreapp2.1\Serialization.pdb
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.dll
+C:\Users\Jonathan\Documents\Revature\Serialization\obj\Debug\netcoreapp2.1\Serialization.pdb
